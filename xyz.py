@@ -37,4 +37,4 @@ while True:
         print("Result:", result)
 
     except ValueError:
-        pri
+        print("Error: Please enter valid numbers.")
